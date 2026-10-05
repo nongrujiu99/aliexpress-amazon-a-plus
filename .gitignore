@@ -1,0 +1,20 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated ecommerce assets
+generated-images/
+*-crossborder-detail-v*/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

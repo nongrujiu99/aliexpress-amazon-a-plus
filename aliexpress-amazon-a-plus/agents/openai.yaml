@@ -1,0 +1,6 @@
+interface:
+  display_name: "Aliexpress_Amazon_A+"
+  short_description: "规划并生成跨境电商主图组、详情页与 Amazon A+ 模块图"
+  default_prompt: "Use $aliexpress-amazon-a-plus to turn my product photos and confirmed selling points into a platform-ready AliExpress main-image/detail-image set or Amazon A+ module set."
+policy:
+  allow_implicit_invocation: true
